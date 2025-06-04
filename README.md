@@ -55,6 +55,8 @@ Favicon added via:
 ---
 project URL
 https://roadmap.sh/projects/single-page-cv
+
+
 My CV project's github repository URL
 https://github.com/Sibghat-Ullah016/cv-html-project
 🧑 Author
