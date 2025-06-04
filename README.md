@@ -53,7 +53,8 @@ Favicon added via:
 
 <link rel="icon" href="cv-html-project.png">
 ---
-
+my cv project
+https://github.com/Sibghat-Ullah016/cv-html-project
 🧑 Author
 
 Sibghat Ullah
