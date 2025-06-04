@@ -33,15 +33,15 @@ This is a simple, responsive personal CV (resume) webpage built using semantic H
    ```bash
    git clone https://github.com/your-username/cv-html-project.git 
 2. Navigate into the Project
-   cd cv-html-project
+   cd myCVproject
 3. Open in Browser
-   Open index.html in your preferred web browser.
+   Open CV.html in your preferred web browser.
 5. Folder structure
-   cv-html-project/
-├── index.html
+   myCVproject/
+├── CV.html
 ├── style.css
 ├── images/
-│   └── favicon.ico (or .png)
+│   └── favicon.png
 └── README.md 
    Meta Tags Overview
 
@@ -51,7 +51,7 @@ OG Tags: og:title, og:description, og:image, og:url, etc.
 
 Favicon added via:
 
-<link rel="icon" href="cv-resume-project.png">
+<link rel="icon" href="cv-html-project.png">
 ---
 
 🧑 Author
